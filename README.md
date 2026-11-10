@@ -4,8 +4,7 @@ An interactive 4-page Power BI report that helps a cookie company's CEO understa
 
 > Final project for the Data Analysis with Power BI and Excel course on Courslia. The dataset is a sample dataset provided by the course.
 
-![Executive Summary](screenshots/02_executive_summary.png)
-
+![Executive Summary] 02_executive_summary.png
 ## Business questions
 
 1. Why does profit fluctuate from month to month?
