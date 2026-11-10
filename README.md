@@ -5,7 +5,10 @@ An interactive 4-page Power BI report that helps a cookie company's CEO understa
 > Final project for the Data Analysis with Power BI and Excel course on Courslia. The dataset is a sample dataset provided by the course.
 
 ![Executive Summary](02_executive_summary.png)
+
 [Download the PDF version of the report](Report.pdf)
+
+## Business questions
 
 1. Why does profit fluctuate from month to month?
 2. Which products should the company focus on in 2026?
@@ -31,7 +34,9 @@ An interactive 4-page Power BI report that helps a cookie company's CEO understa
 | **Customer Insights** | Who are our best customers? | Profit by customer, profit by state, state/city/customer table, key insights |
 
 ![Product Performance](03_product_performance.png)
+
 ![Customer Insights](04_customer_insights.png)
+
 ## Data model
 
 - **Orders** (700 rows, Sep 2019 - Dec 2020) is the fact table.
